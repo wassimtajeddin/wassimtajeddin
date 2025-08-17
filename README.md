@@ -1,38 +1,63 @@
-# Wassim Tajeddin
-## Software Developer | Java • Python • AI
-
-📍 Malmö, Sweden  
-📞 073-684 29 61  
-📧 wassim.tajeddin@gmail.com  
-🔗 GitHub: [github.com/wassimtajeddin]  
-🔗 LinkedIn: [linkedin.com/in/wassimtajeddin]
+# Wassim Tajeddin  
+### Software Engineer | Java · AI · Fullstack  
+📍 Malmö, Sweden | 📧 wassim.tajeddin@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/wassim-tajeddin-82a563201/) | 🔗 [GitHub](https://github.com/wassimtajeddin)  
 
 ---
 
-### 🔧 Teknisk Kompetens
-**Programspråk:** Java, Python, Kotlin, JavaScript  
-**Ramverk:** Spring Boot, Vue.js, TensorFlow  
-**Databaser:** SQL (PostgreSQL), NoSQL  
-**Verktyg:** Git, Docker, Azure DevOps, REST APIs
+## 🚀 Technical Skills  
+**Backend:** Java, Spring Boot, Python  
+**Frontend:** Vue.js, JavaScript, HTML/CSS  
+**Databases:** MySQL, SQLite, MongoDB  
+**AI/ML:** TensorFlow, CNN models (e.g., MNIST @ 98% accuracy)  
+**DevOps:** Docker, Azure, CI/CD  
+**Methodologies:** Agile (Scrum), TDD  
 
 ---
 
-### 🎓 Utbildning
-**Java Developer** | IT-högskolan, Göteborg  
-*Sep 2022 - Maj 2024*  
- Byggde fullstack-appar med Spring Boot + Vue.js  
-  
+## 🎓 Education  
+**Java Developer**  
+*IT-högskolan, Gothenburg* | Sep 2022 - May 2024  
+- Built a fullstack app (Spring Boot + Vue.js) with 500+ hours of Java.  
 
-**Python för AI** | IT-högskolan  
-*Jan - Mar 2025*  
-• Utvecklade ML-modell för handskrivna siffror.
+**Python for AI**  
+*IT-högskolan, Gothenburg* | Jan 2025 - Mar 2025  
+- Developed a CNN digit recognition model (TensorFlow/Keras).  
+
+**Physics**  
+*Aleppo University* | Sep 2011 - Jun 2015  
 
 ---
 
-### 💼 Erfarenhet
-**Android Developer** | Junico AB (Praktik)  
-*Nov 2023 - Maj 2024*  
-Skapade app med Jetpack Compose
+## 💻 Projects  
+### Enterprise App  
+- Spring Boot 3, JPA/Hibernate, MySQL, CI/CD  
+- **GitHub**: [Link](https://github.com/wassimtajeddin/springboot)  
 
-**PostNord AB** | *2018-2024*  
-Teamledare med ansvar för logistikflöden
+### QuizHub (Agile Team Project)  
+- Vue.js + Node.js quiz app with CI/CD pipeline  
+- **GitHub**: [Link](https://github.com/wassimtajeddin/AgilProjekt)  
+
+### MNIST Digit Recognition  
+- CNN model (98% accuracy), Python/TensorFlow  
+- **GitHub**: [Link](https://github.com/wassimtajeddin/SVM-MNIST-Handwritten-Digit-Classifier)  
+
+---
+
+## 💼 Experience  
+**Android Developer Intern** @ *Junico AB* | Nov 2023 - May 2024  
+- Built an app with Jetpack Compose + Kotlin, Room Database.  
+- Scrum team collaboration.  
+
+**Team Leader** @ *PostNord AB* | 2018-2024  
+- Logistics management and customer service leadership.  
+
+---
+
+## 🌐 Languages  
+- Swedish (Fluent)  
+- English (Fluent)  
+- Arabic (Native)  
+
+---
+
+📄 **Resume**: [Download PDF](https://github.com/wassimtajeddin/wassimtajeddin/blob/main/Wassim_Tajeddin_-_Software_Developer.pdf)  
