@@ -1,6 +1,6 @@
 # Wassim Tajeddin  
 ### Software Engineer | Java · AI · Fullstack  
-📍 Malmö, Sweden | 📧 wassim.tajeddin@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/wassim-tajeddin-82a563201/) | 🔗 [GitHub](https://github.com/wassimtajeddin)  
+📍 Malmö, Sweden | 📧 wassim.tajeddin@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/wassim-tajeddin-82a563201/) | 🔗 [GitHub](https://github.com/wassimtajeddin) | 🌐 [Website](https://wassimtajeddin.github.io/portfolio-vue/)  
 
 ---
 
@@ -31,15 +31,15 @@
 ## 💻 Projects  
 ### Enterprise App  
 - Spring Boot 3, JPA/Hibernate, MySQL, CI/CD  
-- **GitHub**: [Link](https://github.com/wassimtajeddin/springboot)  
+- **GitHub:** [Link](https://github.com/wassimtajeddin/springboot)  
 
 ### QuizHub (Agile Team Project)  
 - Vue.js + Node.js quiz app with CI/CD pipeline  
-- **GitHub**: [Link](https://github.com/wassimtajeddin/AgilProjekt)  
+- **GitHub:** [Link](https://github.com/wassimtajeddin/AgilProjekt)  
 
 ### MNIST Digit Recognition  
 - CNN model (98% accuracy), Python/TensorFlow  
-- **GitHub**: [Link](https://github.com/wassimtajeddin/SVM-MNIST-Handwritten-Digit-Classifier)  
+- **GitHub:** [Link](https://github.com/wassimtajeddin/SVM-MNIST-Handwritten-Digit-Classifier)  
 
 ---
 
@@ -60,4 +60,4 @@
 
 ---
 
-📄 **Resume**: [Download PDF](https://github.com/wassimtajeddin/wassimtajeddin/blob/main/Wassim_Tajeddin_-_Software_Developer.pdf)  
+📄 **Resume PDF:** [Download](https://github.com/wassimtajeddin/wassimtajeddin/blob/main/Wassim_Tajeddin_-_Software_Developer.pdf)  
