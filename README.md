@@ -48,7 +48,7 @@
 - Built an app with Jetpack Compose + Kotlin, Room Database.  
 - Scrum team collaboration.  
 
-**Team Leader** @ *PostNord AB* | 2018-2024  
+**Team Leader** @ *PostNord AB* | June 2018 - Feb 2024  
 - Logistics management and customer service leadership.  
 
 ---
