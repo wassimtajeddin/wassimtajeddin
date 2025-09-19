@@ -21,7 +21,7 @@
 **Python for AI** – *IT-högskolan, Gothenburg* | 2025  
 - Developed CNN digit recognizer (98% accuracy).  
 
-**Physics** – *Aleppo University* | 2011–2015  
+**Physics** – *Aleppo University* | Sep 2011 – Sep 2015  
 
 ---
 
