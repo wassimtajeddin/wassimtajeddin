@@ -34,7 +34,7 @@
 
 ## 💼 Experience  
 **Android Developer Intern** – *Junico AB* | 2023–2024  
-- Built Jetpack Compose + Kotlin app with Room DB in Scrum team.  
+- Built Jetpack Compose + Kotlin app with Firebase DB in Scrum team.  
 
 **Team Leader** – *PostNord AB* | 2018–2024  
 - Managed teams and workflows, ensuring delivery & customer satisfaction.  
