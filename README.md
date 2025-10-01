@@ -15,10 +15,10 @@
 ---
 
 ## 🎓 Education  
-**Java Developer** – *IT-högskolan, Gothenburg* | 2022–2024  
+**Java Developer** – *IT-högskolan, Gothenburg* | Aug 2022 – May 2024  
 - 500+ hrs Java; built fullstack Spring Boot + Vue.js app.  
 
-**Python for AI** – *IT-högskolan, Gothenburg* | 2025  
+**Python for AI** – *IT-högskolan, Gothenburg* | Jan 2025 - Mar 2025
 - Developed CNN digit recognizer (98% accuracy).  
 
 **Physics** – *Aleppo University* | Sep 2011 – Sep 2015  
