@@ -1,6 +1,6 @@
 # Wassim Tajeddin  
 ### Software Engineer | Java · Fullstack · AI/ML  
-📍 Malmö, Sweden | 📧 wassim.tajeddin@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/wassim-tajeddin-82a563201/) | 🔗 [GitHub](https://github.com/wassimtajeddin) | 🌐 [Portfolio](https://wassimtajeddin.github.io/portfolio-vue/)  
+📍 Malmö, Sweden | 📧 wassim.tajeddin@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/wassim-tajeddin-82a563201/) | 🔗 [GitHub](https://github.com/wassimtajeddin) | 🌐 [Portfolio](https://wassimtajeddin.com/)  
 
 ---
 
